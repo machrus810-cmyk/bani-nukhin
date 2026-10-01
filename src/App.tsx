@@ -164,7 +164,9 @@ export default function App() {
                 onNavigate={handleSelectTab}
                 onOpenDrawer={() => setIsDrawerOpen(true)}
                 activities={activities}
-                totalMembersCount={members.length}
+                members={members}
+                transactions={transactions}
+                agendas={agendas}
               />
             )}
 
