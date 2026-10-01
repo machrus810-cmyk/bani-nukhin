@@ -34,9 +34,9 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
       {/* Top Emerald Forest Header with Hero Illustration */}
       <div className="relative bg-gradient-to-b from-[#133827] via-[#1a4a34] to-[#245e43] text-white pt-3 pb-14 px-4 overflow-hidden">
         {/* Background tree artistic graphic seamlessly positioned on right */}
-        <div className="absolute right-0 top-0 w-2/3 h-full pointer-events-none opacity-40 mix-blend-screen overflow-hidden">
+        <div className="absolute right-0 top-0 w-3/4 h-full pointer-events-none opacity-50 mix-blend-screen overflow-hidden">
           <img
-            src="/src/assets/images/hero_family_tree_1790816083612.jpg"
+            src="/images/hero_family_tree.jpg"
             alt="Family Tree Background"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover object-right"
@@ -83,7 +83,7 @@ export const DashboardView: React.FC<DashboardViewProps> = ({
         <div className="relative z-10 bg-white/10 backdrop-blur-md border border-white/20 rounded-2xl p-3.5 flex items-center gap-3.5 shadow-lg shadow-black/10">
           <div className="relative w-12 h-12 rounded-full overflow-hidden ring-2 ring-emerald-300/80 shrink-0 bg-emerald-900/50">
             <img
-              src="/src/assets/images/machrus_avatar_1790816108650.jpg"
+              src="/images/machrus_avatar.jpg"
               alt="Machrus"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover"

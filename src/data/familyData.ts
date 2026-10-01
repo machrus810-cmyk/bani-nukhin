@@ -140,7 +140,7 @@ export const INITIAL_MEMBERS: FamilyMember[] = [
     phone: '0812 8888 9999',
     occupation: 'Software Engineer',
     education: 'S1 Teknik Informatika',
-    avatarUrl: '/src/assets/images/machrus_avatar_1790816108650.jpg',
+    avatarUrl: '/images/machrus_avatar.jpg',
     parentsText: 'Ahmad Fauzi',
     parentId: 'm-3',
     notes: 'Administrator aplikasi & silsilah digital Bani H. Nukhin.',

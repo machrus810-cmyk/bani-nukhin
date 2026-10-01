@@ -167,9 +167,9 @@ export const FamilyTreeView: React.FC<FamilyTreeViewProps> = ({
         <div className="relative flex-1 overflow-auto bg-[#e9f2eb] select-none min-h-[580px]">
           {/* Background image canvas */}
           <div 
-            className="absolute inset-0 bg-cover bg-center pointer-events-none opacity-50"
+            className="absolute inset-0 bg-cover bg-center pointer-events-none opacity-60"
             style={{
-              backgroundImage: `url('/src/assets/images/tree_bg_canvas_1790816097060.jpg')`,
+              backgroundImage: `url('/images/tree_bg_canvas.jpg')`,
             }}
           />
           <div className="absolute inset-0 bg-gradient-to-b from-white/40 via-transparent to-[#dff0e4]/80 pointer-events-none" />

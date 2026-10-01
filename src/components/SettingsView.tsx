@@ -62,7 +62,7 @@ export const SettingsView: React.FC<SettingsViewProps> = ({
         <div className="bg-white rounded-2xl p-4 shadow-2xs border border-stone-100 flex items-center gap-3.5">
           <div className="w-12 h-12 rounded-full overflow-hidden ring-2 ring-emerald-600/30">
             <img
-              src="/src/assets/images/machrus_avatar_1790816108650.jpg"
+              src="/images/machrus_avatar.jpg"
               alt="Machrus"
               className="w-full h-full object-cover"
               onError={(e) => {
