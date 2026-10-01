@@ -1,0 +1,6 @@
+{
+  "name": "Silsilah Bani H. Nukhin",
+  "description": "Aplikasi Silsilah Keluarga Besar Bani H. NUKHIN dengan Pohon Silsilah, Data Anggota, Agenda, Uang Kas, dan Iuran Keluarga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
